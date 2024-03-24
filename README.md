@@ -1,5 +1,7 @@
-# Python Libraries Guide
+# 🧠 ML From Scratch 
 
-A basic guide for few of the Python libraries that I use in my personal projects.
+This repository offers a personal guide to essential Python libraries I use in my projects. 
+Dive into tutorials, code examples, and implementations of machine learning algorithms using 
+`NumPy`, `Pandas`, `Scikit-learn`, `OpenCV`, and `PyTorch`.
 
-Libraries used : `NumPy`, `Pandas`, `Scikit-learn`, `OpenCV` and `Pytorch`
+
